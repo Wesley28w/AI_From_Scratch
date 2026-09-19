@@ -4,6 +4,7 @@ Building ML concepts from scratch, derivatives by hand, and theory by reading. P
 
 # Project 1 - Linear Regression
 <img width="414" height="310" alt="Screenshot 2026-09-18 203649" src="https://github.com/user-attachments/assets/61019c16-408a-4faa-8b49-74f60b633ad5" />
+
 Built my own linear regression setup from scratch (NO AI).
 I used the following resources to better understand linear regression:
 https://www.youtube.com/watch?v=3dhcmeOTZ_Q
@@ -15,6 +16,7 @@ concepts: regression, SSE, SE, MSE, gradients for MSE, partial derivatives, grad
 
 # Project 2 - Logistic Regression
 <img width="425" height="322" alt="Screenshot 2026-09-18 203731" src="https://github.com/user-attachments/assets/b48c5c9f-c171-46db-8f03-8a12748f0205" />
+
 Build my own logistic regression setup from scratch (NO AI).
 I used the following resources to better understand linear regression and the other related topics.
 https://www.youtube.com/playlist?list=PLuhqtP7jdD8Chy7QIo5U0zzKP8-emLdny (Playlist, excluding code implementation video)
