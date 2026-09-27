@@ -1,7 +1,7 @@
 # AI_From_Scratch
 Building ML concepts from scratch, derivatives by hand, and theory by reading. Part of a 12-project curriculum I built for myself.
 *NOTE: None of the resources I reference explicitly show code to copy or walk you through it. So my work is all personal testing after learning intuition and math.*
-## Disclaimer: For the purpose of learning, I don't use any AI to write code. Occasionally, I use it to walk through complex concepts (I'll specify when), but never to write code.
+#### Disclaimer: For the purpose of learning, I don't use any AI to write code. Occasionally, I use it to walk through complex concepts (I'll specify when), but never to write code.
 # Project 1 - Linear Regression
 <img width="414" height="310" alt="Screenshot 2026-09-18 203649" src="https://github.com/user-attachments/assets/61019c16-408a-4faa-8b49-74f60b633ad5" />
 
