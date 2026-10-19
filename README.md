@@ -46,19 +46,19 @@ concepts: inference-only classifier, L1/L2/L... norm, cosine similarity, vectori
 # Project 4 - PCA and SVD
 <img width="441" height="347" alt="Screenshot 2026-10-18 200211" src="https://github.com/user-attachments/assets/7fee1049-de0f-4bbb-b861-349160c1f75b" />
 
-Built my own Principal Component Analysis System that uses SVD or maximizes the covariance matrix to identify the principal components of a dataset. This preprocessing tool is used during pretraining to simplify training data by identifying which components matter.
-To build this, I went back and spent significant time improving my skills in Linear Algebra, though I still have much to learn. That is the reason it took 3 weeks instead of 1 for this project.
-I watched this excellent Linear Algebra Course from Dr. Trefor Bezett and took over 70 pages of notes (and yes watched all 84 videos). I will likely need to continue with an additonal course to further solidfy my knowledge and fill in gaps.
-Lin alg course: https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6
-I also used Gemini Google Search a lot for quick understanding validation.
-Here are additional recourses I used:
+Built my own Principal Component Analysis System that uses SVD or maximizes the covariance matrix to identify the principal components of a dataset. This preprocessing tool is used during pretraining to simplify training data by identifying which components matter. \
+To build this, I went back and spent significant time improving my skills in Linear Algebra, though I still have much to learn. That is the reason it took 3 weeks instead of 1 for this project. \
+I watched this excellent Linear Algebra Course from Dr. Trefor Bezett and took over 70 pages of notes (and yes watched all 84 videos). I will likely need to continue with an additonal course to further solidfy my knowledge and fill in gaps. \
+Lin alg course: https://www.youtube.com/playlist?list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6 \
+I also used Gemini Google Search a lot for quick understanding validation. \
+Here are additional recourses I used: \
 https://www.youtube.com/watch?v=fkf4IBRSeEc
 https://www.youtube.com/watch?v=ZgyY3JuGQY8
 https://www.youtube.com/watch?v=FgakZw6K1QQ&t=3s
 https://www.youtube.com/watch?v=FD4DeN81ODY
 https://www.youtube.com/watch?v=ZgyY3JuGQY8
 https://www.youtube.com/watch?v=_YPScrckx28
-I found this guy who is a gem (like 3blue1brown): *he connected many dots for me*
+I found this guy who is a gem (like 3blue1brown): *he connected many dots for me* \ 
 https://www.youtube.com/watch?v=7Gtxd-ew4lk
 https://www.youtube.com/watch?v=mhy-ZKSARxI
 https://www.youtube.com/watch?v=vSczTbgc8Rc&pp=0gcJCUcMAYcqIYzv
