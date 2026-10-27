@@ -70,3 +70,17 @@ I found three main ways to identify the eigenvalues/eigenvectors which serves as
 1. Maximize the variance of the projected points onto a line (I did this)
 2. Use Singular Value Decomposition to identify the orthogonal matrix V^t. (I did this)
 3. Multi-dim linear regression by minimizing residuals. Very over-engineered. I didn't do this. Maybe another time.
+
+# Project 5 - K-Means
+<img width="422" height="305" alt="Screenshot 2026-10-26 171438" src="https://github.com/user-attachments/assets/26f25ae3-c5af-4f41-abc1-f686e9f4edaa" />
+
+Built my own clustering algoirthm via K-Means. It utilizes a standard system of placing random centroids, calculating the closest points, and then moving the centroid to the average/mean of its corresponding points. Repeat...
+To build this I learned a bit about clustering algorithms such as Hierarchical Clustering as well. Ultimately, I learned quite a bit.
+Here are the recourses I used to learn K-Means cluster and built this notebook:
+https://www.youtube.com/watch?v=esmzYhuFnds <-- Highly recommend \
+https://www.youtube.com/watch?v=R2e3Ls9H_fc
+https://www.youtube.com/watch?v=4b5d3muPQmA&pp=0gcJCTAMAYcqIYzv
+
+This code showcases:
+libs: numpy, pyplot.
+Concepts: clustering, scatter plots, mean clustering, euclidian distances.. yeah to be honest, it utilizes many concepts I have already learned above. **Was still fun**
