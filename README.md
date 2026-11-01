@@ -84,3 +84,23 @@ https://www.youtube.com/watch?v=4b5d3muPQmA&pp=0gcJCTAMAYcqIYzv
 This code showcases:
 libs: numpy, pyplot.
 Concepts: clustering, scatter plots, mean clustering, euclidian distances.. yeah to be honest, it utilizes many concepts I have already learned above. **Was still fun**
+
+# Project 6 - Decision Tree
+<img width="831" height="385" alt="Screenshot 2026-10-31 180230" src="https://github.com/user-attachments/assets/f45a34df-9baf-47df-b28f-e5e3d938fe0a" />
+Build my own Decision Tree. It recursively builds a collection of nodes, organized in a tree manner, that enables for an intuitive if-else prediction model. In the future, I want to implement Random Forests, off of my design, which would use bootstrapping and aggregation to improve overfitting issues. Additionally, implementing something like XGBoosted Random Forest could help me understand ensemble learning (where you builds models sequentially building off each others weaknesses). 
+Here are the recourses I used to learn. I found that while DecisionTrees are very useful in terms of practicality, it is not fun to implement as it heavily relies on manual recursive building an looping through the features several, several times. Regardless, I managed to build it after some perseverance. Here's the recourses:
+https://www.youtube.com/watch?v=_L39rN6gz7Y
+https://www.youtube.com/watch?v=g9c66TUylZ4&t=6s
+https://www.youtube.com/watch?v=v6VJ2RO66Ag&pp=0gcJCSsMAYcqIYzv
+https://www.youtube.com/watch?v=LLBGiAAZqAM&t=5s
+https://www.youtube.com/watch?v=xDWZzD4TPO0
+https://www.youtube.com/watch?v=TyvYZ26alZs
+https://www.youtube.com/watch?v=en2bmeB4QUo <-- Ritvik math is great
+
+Also watched, for more background knowledge:
+https://www.youtube.com/watch?v=EuBBz3bI-aA
+https://www.youtube.com/watch?v=YtebGVx-Fxw&pp=0gcJCSsMAYcqIYzv
+
+This code showcases:
+libs: numpy, random
+concepts: decision trees, nodes, entropy, Gini impurity, features, regression vs classification, XGBoosting, Random Forests, Bootstrapping, Aggregation, Recursion 
